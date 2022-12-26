@@ -1,4 +1,8 @@
-![Veradictus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Veradictus&show_icons=true&theme=radical)
+![Veradictus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Veradictus&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veradictus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Veradictus.Veradictus)
 
 
 <!--
