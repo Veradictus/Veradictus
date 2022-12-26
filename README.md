@@ -1,4 +1,4 @@
-[![Veradictus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Veradictus)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+![Veradictus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Veradictus&show_icons=true&theme=radical)
 
 
 <!--
