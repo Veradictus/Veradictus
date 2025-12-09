@@ -13,6 +13,8 @@ jobs:
       contents: write
     steps:
       - uses: stalomeow/metrics@projects-v2
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           # Your GitHub token
           # The following scopes are required:
